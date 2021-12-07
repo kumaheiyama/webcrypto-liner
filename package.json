@@ -40,7 +40,7 @@
     "elliptic": "^6.5.4",
     "pvtsutils": "^1.1.2",
     "tslib": "^2.1.0",
-    "webcrypto-core": "^1.2.0"
+    "webcrypto-core": "1.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.13",
