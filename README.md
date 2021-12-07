@@ -5,6 +5,12 @@
 
 [![NPM](https://nodei.co/npm/webcrypto-liner.png)](https://nodei.co/npm/webcrypto-liner/)
 
+---
+Fork to handle that webcrypto-core is only version ^1.2.0 which is incompatible with typescript 4.4.2.
+See [this discussion](https://github.com/PeculiarVentures/webcrypto-liner/issues/89)
+
+---
+
 
 A polyfill for WebCrypto that "smooths out" the rough-edges in existing User Agent implementations.
 
